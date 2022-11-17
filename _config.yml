@@ -24,6 +24,7 @@ baseurl: / # the subpath of your site, e.g. /blog
 domain: veganmusicworldwide.com
 url: http://www.veganmusicworldwide.com/ # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: veganmusic.mp3
+email: Veganmusicbooking@gmail.com
 soundcloud_username: Vegan Music
 
 # Build settings
